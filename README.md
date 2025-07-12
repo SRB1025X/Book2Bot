@@ -25,7 +25,7 @@ Whether you're preparing for exams or doing self-paced study, Book2Bot transform
 
 ## 🏗️ System Architecture
 
-![System Architecture](assets/architecture.png)
+![System Architecture](assets/architecture2.png)
 
 > **Key Components:**
 > - **Frontend (Flask):** Upload form + chat interface.
@@ -100,7 +100,7 @@ Open it in your browser and upload your material to start chatting!
 
 | Upload Interface | Chat Interface |
 |------------------|----------------|
-| ![Upload UI](assets/upload.png) | ![Chat UI](assets/chat.png) |
+| ![Upload UI](assets/processed.png) | ![Chat UI](assets/answered.png) |
 
 ---
 
