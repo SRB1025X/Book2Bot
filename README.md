@@ -25,7 +25,7 @@ Whether you're preparing for exams or doing self-paced study, Book2Bot transform
 
 ## 🏗️ System Architecture
 
-![System Architecture](assets/architecture2.png)
+![System Architecture](assets/Architecture2.png)
 
 > **Key Components:**
 > - **Frontend (Flask):** Upload form + chat interface.
