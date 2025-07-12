@@ -117,9 +117,12 @@ Open it in your browser and upload your material to start chatting!
 
 ## 📚 References
 
-- [SAULLM-7B](https://arxiv.org/abs/2403.03883) – A Large Language Model for Law.
-- [Generative AI in Legislation](https://www.dragosdatcu.eu/papers/ICUSI_2024_PAPER_6.pdf)
-- [Legal Literacy & LLMs](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4967373)
+- **Sentence-BERT**: Reimers, N., & Gurevych, I. (2019). [Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks](https://arxiv.org/abs/1908.10084)
+- **LangChain**: [LangChain Documentation](https://docs.langchain.com/)
+- **Retrieval-Augmented Generation**: Lewis, P., et al. (2020). [Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks](https://arxiv.org/abs/2005.11401)
+- **Tesseract OCR**: [Tesseract OCR GitHub](https://github.com/tesseract-ocr/tesseract)
+- **FAISS**: Johnson, J., Douze, M., & Jégou, H. (2017). [FAISS: Facebook AI Similarity Search](https://github.com/facebookresearch/faiss)
+- **Gemma Models & Ollama**: [Gemma by Google](https://ai.google.dev/gemma) | [Ollama Docs](https://ollama.com/library/gemma)
 
 ---
 
